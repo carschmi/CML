@@ -46,4 +46,5 @@ Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/carschmi/CML/
    a217fe1..49b1bd6  main -> main
 
- 
+
+5) to push a lab to cml, use "cml up"
